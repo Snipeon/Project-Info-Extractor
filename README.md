@@ -1,3 +1,4 @@
+# Project-Info-Extractor
 A project I did for CFC. A basic bash script to extract info about a user's device.
 
 The script, as mentioned, uses bash. 
